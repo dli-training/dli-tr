@@ -8,8 +8,6 @@ title: Through the sands of the hourglass, these are the data of our lives
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTVckuKFBs1-jL4tzVH3x1zMCYZIZ9yaypXAiJNfm_dWlGlwyvGeeGOkPoPRnVkjaV1ZWd-XGUhteyA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**need to make slide deck shareable**
-
 *Presenters*: [Chantal Ripp](mailto:chantal.ripp@uottawa.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)    
 *Project Team*: [Alex Cooper](mailto:coopera@queensu.ca), [Jane Fry](mailto:Jane.Fry@carleton.ca), [Margaret Vail](mailto:mvail@stfx.ca)
 
