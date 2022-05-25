@@ -11,7 +11,7 @@ title: Through the sands of the hourglass, these are the data of our lives
 *Presenters*: [Chantal Ripp](mailto:chantal.ripp@uottawa.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)    
 *Project Team*: [Alex Cooper](mailto:coopera@queensu.ca), [Jane Fry](mailto:Jane.Fry@carleton.ca), [Margaret Vail](mailto:mvail@stfx.ca)
 
-### <a id="slide"></a>Conference Abstract
+### <a id="abstract"></a>Conference Abstract
 
 The Data Liberation Initiative (DLI) is a partnership between Canada's national statistics agency and data librarians and specialists representing universities and colleges across the country. The program was established in 1996 in order to increase access to microdata for teaching and research purposes. In the early 2000s, DLI-affiliated librarians created a repository to provide access to training materials created by and for the data community as a means of supporting knowledge transfer and dissemination.
 
