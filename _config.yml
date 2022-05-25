@@ -5,8 +5,8 @@ subtitle:
 #email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-baseurl: "dli-tr" # the subpath of your site, e.g. /blog
-url: "https://dli-training.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dli-training.github.io/dli-tr" # the base hostname & protocol for your site
 
 
 # Build settings
