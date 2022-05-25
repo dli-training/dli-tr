@@ -1,12 +1,12 @@
 
 # Site settings
-title: Reproducible Research
+title: FAIRing the DLI <br>Training Repository
 subtitle: ""
 #email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://research-reuse.github.io/" # the base hostname & protocol for your site
+url: "https://tr-dli.github.io/" # the base hostname & protocol for your site
 
 
 # Build settings
@@ -17,8 +17,8 @@ sass:
   sass_dir: _sass
 
 social_links:
-    twitter: hashtag/CDCF2019
-    github: research-reuse
+    twitter:
+    github: dli-training
     rss: rss
 
 include:
