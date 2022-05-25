@@ -25,4 +25,4 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 ### <a id="references"></a>References & Resources
 
 [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
-[CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit)**need to make a shareable copy of this**
+[CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit) **need to make a shareable copy of this**
