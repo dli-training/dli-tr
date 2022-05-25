@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Through the sands of the hourglass, these are the data of our lives
 ---
 ## IASSIST 2022
 
@@ -23,3 +23,5 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 
 
 ### <a id="references"></a>References & Resources
+
+[DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
