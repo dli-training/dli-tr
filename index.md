@@ -6,7 +6,7 @@ title: Through the sands of the hourglass, these are the data of our lives
 
 ### <a id="slide"></a>Slide Deck
 
-<iframe src="" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1ZnfeUaktKLhVmRdfBZhMq5Zp8VQAGgcrEfj2xxjm3Fk/edit?usp=sharing" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 *Presenters*: [Chantal Ripp](mailto:chantal.ripp@uottawa.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)    
 *Project Team*: [Alex Cooper](mailto:coopera@queensu.ca), [Jane Fry](mailto:Jane.Fry@carleton.ca), [Margaret Vail](mailto:mvail@stfx.ca)
@@ -25,3 +25,4 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 ### <a id="references"></a>References & Resources
 
 [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
+[CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit)**need to make a shareable copy of this**
