@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Through the sands of the hourglass, these are the data of our lives
+title: 
 ---
 ## IASSIST 2022
 
