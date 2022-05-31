@@ -11,7 +11,7 @@ title: Through the sands of the hourglass, these are the data of our lives
 *Project Team*:
 - [Chantal Ripp](mailto:chantal.ripp@uottawa.ca), University of Ottawa (presenter)
 - [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca), Mount Saint Vincent University (presenter)
-- [Alex Cooper](mailto:coopera@queensu.ca), Queens University
+- [Alexandra Cooper](mailto:coopera@queensu.ca), Queens University
 - [Jane Fry](mailto:Jane.Fry@carleton.ca), Carelton University
 - [Margaret Vail](mailto:mvail@stfx.ca), St. Francis Xavier University
 
@@ -30,3 +30,5 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 
 - [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
 - [CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit) **need to make a shareable copy of this**
+- [FAIR Principles](https://www.go-fair.org/fair-principles/)
+- Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse. https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf
