@@ -28,8 +28,10 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 
 ### <a id="references"></a>References & Resources
 
-- [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
+- Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse. https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf
 - [CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit) **need to make a shareable copy of this**
 - [CUDO Migration Checklist / Infosheet](https://docs.google.com/spreadsheets/d/1pvVU9okKK6znWiRKE1LgPjb15798CX9_tHOlJeRXq-E/edit?usp=sharing)**need to make a shareable copy of this**
+- [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
-- Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse. https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf
+- [Migration. (n.d.). Bridge2Hyku. Retrieved January 26, 2022, from https://bridge2hyku.github.io/migration/](https://bridge2hyku.github.io/migration/)
+- [Garcia, L., Batut, B., Burke, M. L., Kuzak, M., Psomopoulos, F., Arcila, R., Attwood, T. K., Beard, N., Carvalho-Silva, D., & Dimopoulos, A. C. (2020). Ten simple rules for making training materials FAIR. *PLoS Computational Biology, 16*(5), e1007854.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854)
