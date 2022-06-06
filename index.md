@@ -28,7 +28,7 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 
 ### <a id="references"></a>References & Resources
 
-- Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse. https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf
+- [Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse.](https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf)
 - [CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit) **need to make a shareable copy of this**
 - [CUDO Migration Checklist / Infosheet](https://docs.google.com/spreadsheets/d/1pvVU9okKK6znWiRKE1LgPjb15798CX9_tHOlJeRXq-E/edit?usp=sharing)**need to make a shareable copy of this**
 - [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
