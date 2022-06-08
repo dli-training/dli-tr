@@ -26,13 +26,18 @@ After consultation with the DLI data community, it was determined that there was
 In this presentation, we will show how we applied FAIR principles to make the training materials easier to find, (re)use, and adapt, not only for the benefit of our data community but for everyone. The DLI Training Repository is not just a complex collection of learning objects; it's a historical archive capturing the evolving trends in the development of the DLI data community in Canada.
 
 
-### <a id="references"></a>References & Resources
+### <a id="references"></a>Resources & References
+
+#### Our Resources
+
+- [CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit)
+- [CUDO Migration Checklist / Infosheet](https://docs.google.com/spreadsheets/d/1pvVU9okKK6znWiRKE1LgPjb15798CX9_tHOlJeRXq-E/edit?usp=sharing)
+- [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit)
+
+#### References
 
 - Cooper, A., Steeleworthy, M., Paquette-Bigras, È., Clary, E., MacPherson, E., Gillis, L., & Brodeur, J. (2021). Creating Guidance for Canadian Dataverse Curators: Portage Network’s Dataverse Curation Guide. *Journal of EScience Librarianship, 10*(3), 2. <https://doi.org/10.7191/jeslib.2021.1201>
 - Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse.<https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf>
-- [CUDO Metadata Cleanup Steps](https://docs.google.com/document/d/1_JYdAtzVcwxaQSamxQ-pJr7ShslKdydSVeP7r6uiwzQ/edit) **need to make a shareable copy of this**
-- [CUDO Migration Checklist / Infosheet](https://docs.google.com/spreadsheets/d/1pvVU9okKK6znWiRKE1LgPjb15798CX9_tHOlJeRXq-E/edit?usp=sharing)**need to make a shareable copy of this**
-- [DLI Training Repository Metadata Best Practices Guide](https://docs.google.com/document/d/1MJZYsiqs9FZcr8HNG3cMyuJ996Nn5g2i/edit) **need to make a shareable copy of this**
 - FAIR Principles. (n.d.). GO FAIR. Retrieved June 6, 2022, from <https://www.go-fair.org/fair-principles/>
 - Migration. (n.d.). Bridge2Hyku. Retrieved January 26, 2022, from <https://bridge2hyku.github.io/migration/>
 - Garcia, L., Batut, B., Burke, M. L., Kuzak, M., Psomopoulos, F., Arcila, R., Attwood, T. K., Beard, N., Carvalho-Silva, D., & Dimopoulos, A. C. (2020). Ten simple rules for making training materials FAIR. *PLoS Computational Biology, 16*(5), e1007854. <https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854>
