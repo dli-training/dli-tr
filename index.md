@@ -26,7 +26,9 @@ After consultation with the DLI data community, it was determined that there was
 In this presentation, we will show how we applied FAIR principles to make the training materials easier to find, (re)use, and adapt, not only for the benefit of our data community but for everyone. The DLI Training Repository is not just a complex collection of learning objects; it's a historical archive capturing the evolving trends in the development of the DLI data community in Canada.
 
 
-### <a id="references"></a>Resources & References
+### <a id="references"></a>References
+
+<!---
 
 #### Our Resources
 
@@ -34,6 +36,8 @@ In this presentation, we will show how we applied FAIR principles to make the tr
 - [CUDO Migration Checklist / Infosheet](https://docs.google.com/spreadsheets/d/1pvVU9okKK6znWiRKE1LgPjb15798CX9_tHOlJeRXq-E/edit?usp=sharing)
 
 #### References
+
+--->
 
 - Cooper, A., Steeleworthy, M., Paquette-Bigras, È., Clary, E., MacPherson, E., Gillis, L., & Brodeur, J. (2021). Creating Guidance for Canadian Dataverse Curators: Portage Network’s Dataverse Curation Guide. *Journal of EScience Librarianship, 10*(3), 2. <https://doi.org/10.7191/jeslib.2021.1201>
 - Crosas, M. (2019, March 22). The FAIR Guiding Principles: Implementation in Dataverse.<https://scholar.harvard.edu/files/mercecrosas/files/fairdata-dataverse-mercecrosas.pdf>
